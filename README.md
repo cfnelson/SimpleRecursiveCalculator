@@ -1,6 +1,6 @@
 # SimpleRecursiveCalculator 
 
-A simple scientific calculator using recursion (recursive decent parser) to calculate answers provided by a user’s arithmetic expression entered from a keyboard.
+A simple scientific calculator using recursion (recursive decent parser) to calculate answers provided by a user’s arithmetic expression entered from a keyboard.This project was completed as course work for Data Structures & Algorithms subject at University.
 
 Implemented for win32 machine using c++11.
 
