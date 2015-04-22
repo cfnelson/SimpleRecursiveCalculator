@@ -4,7 +4,7 @@ A simple scientific calculator using recursion (recursive decent parser) to calc
 
 Implemented for win32 machine using c++11.
 
-The following outlines the user requirements for the program:
+The following outlines the user requirements:
 * The user shall be able to enter as many keyboard characters into the cmd line
 * However only the following operators: +, - , * , / , ^ , ( , ) and whole numbers will be accepetd.
 * The Calculator will continue running until the user selects to quit by perssing ‘q’ or ‘Q’ or by entering an invalid character outside the accpetable operators.
